@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SoundCloud</string>
+    <string name="albums_textview">Albums</string>
+    <!-- Category name for Breeze songs[CHAR LIMIT=20] -->
+    <string name="category_breeze">Breeze </string>
+    <!-- Category name for midnight songs [CHAR LIMIT=20] -->
+    <string name="category_midnight">Midnight </string>
+    <!-- Category name for relaxing songs[CHAR LIMIT=20] -->
+    <string name="category_relaxing">Relaxing </string>
+    <!-- Category name for escape songs[CHAR LIMIT=20] -->
+    <string name="category_escape">Escape EveryThing</string>
+
+
+</resources>

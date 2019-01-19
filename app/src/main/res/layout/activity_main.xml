@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/albums_text"
+        android:text="@string/albums_textview"
+
+        />
+
+    <Button
+        android:id="@+id/breeze"
+        style="@style/CategoryStyle"
+        android:background="@color/category_breeze"
+        android:text="@string/category_breeze" />
+
+    <Button
+        android:id="@+id/midnight"
+        style="@style/CategoryStyle"
+        android:background="@color/category_midnight"
+        android:text="@string/category_midnight" />
+
+    <Button
+        android:id="@+id/relaxing"
+        style="@style/CategoryStyle"
+        android:background="@color/category_relaxing"
+        android:text="@string/category_relaxing" />
+
+    <Button
+        android:id="@+id/escape"
+        style="@style/CategoryStyle"
+        android:background="@color/category_escape"
+        android:text="@string/category_escape" />
+
+
+</LinearLayout>
